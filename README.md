@@ -118,7 +118,10 @@
 
 ### 4.3 优质学习资源
 
-1. [x] [前端进阶必备，github 优质资源整理分享](https://juejin.im/post/5d3edad9f265da03a652f133)
+1. [x] [前端进阶必备，github 优质资源整理分享](https://juejin.im/post/5d3edad9f265da03a652f133) - 优质项目
+2. [x] [大前端的瑞士军刀](https://github.com/nieweidong/fetool#blogs) - 工具集
+3. [x] [前端入门和学习进阶笔记](https://github.com/qianguyihao/Web) - 面试宝典，不能错过
+4. [][github中文排行榜](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts#JavaScript) -高分优秀的中文项目
 
 **3 月 18 日更新**
 
@@ -127,6 +130,11 @@
 **3 月 24 日更新**
 
 2. [x] [要就来 45 道 Promise 面试题一次爽到底](https://juejin.im/post/5e58c618e51d4526ed66b5cf) - 最详细的 promise、async 题目，妈妈再也不用担心我不会异步了。
+
+**3 月 28 日更新**
+
+4. [【面试篇】寒冬求职季之你必须要懂的原生 JS(上)](https://juejin.im/post/5cab0c45f265da2513734390) - Javascript 看这两篇
+5. [【面试篇】寒冬求职季之你必须要懂的原生 JS(中)](https://juejin.im/post/5cbd1e33e51d45789161d053)
 
 ## 5. 个人学习笔记
 
@@ -145,6 +153,7 @@
 9. [ReactJS 小书](http://huziketang.mangojuice.top/books/react/)
 10. [TypeScript Handbook（中文版）](https://zhongsp.gitbooks.io/typescript-handbook/content/)
 11. [图解 Git](https://marklodato.github.io/visual-git-guide/index-zh-cn.html)
+12. [微信小程序开发文档](https://developers.weixin.qq.com/miniprogram/dev/framework/quickstart/)
 
 ## 7. 技术分享文章 - 长期维护
 
