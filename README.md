@@ -121,7 +121,7 @@
 1. [x] [前端进阶必备，github 优质资源整理分享](https://juejin.im/post/5d3edad9f265da03a652f133) - 优质项目
 2. [x] [大前端的瑞士军刀](https://github.com/nieweidong/fetool#blogs) - 工具集
 3. [x] [前端入门和学习进阶笔记](https://github.com/qianguyihao/Web) - 面试宝典，不能错过
-4. [][github中文排行榜](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts#JavaScript) -高分优秀的中文项目
+4. [X] [github中文排行榜](https://github.com/kon9chunkit/GitHub-Chinese-Top-Charts#JavaScript) -高分优秀的中文项目
 
 **3 月 18 日更新**
 
@@ -136,6 +136,16 @@
 4. [【面试篇】寒冬求职季之你必须要懂的原生 JS(上)](https://juejin.im/post/5cab0c45f265da2513734390) - Javascript 看这两篇
 5. [【面试篇】寒冬求职季之你必须要懂的原生 JS(中)](https://juejin.im/post/5cbd1e33e51d45789161d053)
 
+**3 月 30 日更新**
+
+6. [ES6完全使用手册](https://juejin.im/post/5bfe05505188252098022400) - es6的重点
+
+7. [从206个console.log()完全弄懂数据类型转换的前世今生](https://juejin.im/post/5e7f8314e51d4546fa4511c9) - 类型转换看这里
+
+8. [2020三元同学春招阿里淘系、阿里云、字节跳动面经 & 个人成长经验分享](https://juejin.im/post/5e7d4e8b6fb9a03c6422f112) - 应届大佬的实习面试记录
+
+   
+
 ## 5. 个人学习笔记
 
 > 不完善，没有看的必要，已屏蔽
@@ -145,7 +155,7 @@
 1. [JavaScript 开发者应懂的 33 个概念](https://github.com/stephentian/33-js-concepts)
 2. [JavaScript 算法与数据结构](https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md)
 3. [webpack 中文文档](https://www.webpackjs.com/guides/getting-started/)
-4. [ECMAScript6 入门](http://es-ruanyifeng.com/)
+4. [ECMAScript6 入门](https://es6.ruanyifeng.com/#README)  - 学习es6必看教程
 5. [Flutter 中文网](https://flutterchina.club/)
 6. [JS 函数式子编程指南](https://llh91100-gitbooks.io/mostly-adequate-guide-chinese/content/)
 7. [next.js 中文文档](https://nextjs.org/docs)
